@@ -5,11 +5,10 @@ It gets a lot of errors when you use a variable inside the curl, that's why maki
 
 Using the colors you can add an awesome effect for the messages. For example:
  
-Search in the last ten lines of the "important.log" the word `midichlorians` 
+Searching in the last ten lines of the "important.log" the word `midichlorians` will send to Slack:
 
 ![imagen2](img/succeed.png)
 
-Search in the last ten lines of the "important.log" the word `gundam` 
+Searching in the last ten lines of the "important.log" the word `gundam` will send to Slack:
 
 ![imagen1](img/failed.png) 
-
