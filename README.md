@@ -12,3 +12,5 @@ Searching in the last ten lines of the "important.log" the word `midichlorians` 
 Searching in the last ten lines of the "important.log" the word `gundam` will send to Slack:
 
 ![imagen1](img/failed.png) 
+
+In both cases the text send it to Slack it will be the last ten lines for ehm debbuging purpose or something like that.
